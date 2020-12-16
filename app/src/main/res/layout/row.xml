@@ -9,7 +9,7 @@
     tools:actionBarNavMode="standard"
     tools:visibility="visible">
 
-    <ImageView
+    <com.android.volley.toolbox.NetworkImageView
         android:id="@+id/icon"
         android:layout_width="64dp"
         android:layout_height="64dp"
